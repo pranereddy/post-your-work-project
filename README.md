@@ -63,7 +63,6 @@ Because these sections are not yet completed, the script is not ready for full e
 
 - If you see `ModuleNotFoundError`, install the required packages with `pip install pandas numpy`.
 - If you see `FileNotFoundError`, make sure the expected CSV files are available in the same directory as the script.
-- If the program raises a `NameError` for variables such as `city`, `month`, `day`, or `df`, that is a sign the TODO sections in the starter code have not been implemented yet.
 
 ## Contribution guidelines
 
