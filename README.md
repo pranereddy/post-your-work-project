@@ -69,6 +69,11 @@ Because these sections are not yet completed, the script is not ready for full e
 
 Contributions are best focused on completing the starter functions, validating input handling, and improving the README once the analysis logic is finished. Keep changes small and test the script from the command line after updating the implementation.
 
+## Maintainers
+
+- Add the project maintainer name here
+- Add the maintainer GitHub username or contact information here
+
 ## Credits
 
 This project is based on the Udacity starter repository for the Post Your Work project:
